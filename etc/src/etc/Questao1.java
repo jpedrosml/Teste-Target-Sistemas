@@ -1,6 +1,6 @@
 package etc;
 
-public class Teste {
+public class Questao1 {
 
 	public static void main(String[] args) {
 		int ind = 13;
